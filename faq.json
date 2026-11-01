@@ -1,0 +1,42 @@
+[
+ {
+  "q": "What are your opening hours?",
+  "a": "We are open every day 7:00–19:00, and on Sundays 8:00–14:00. Public holidays: 8:00–12:00."
+ },
+ {
+  "q": "Do you deliver?",
+  "a": "Yes! Same-day delivery within 5 km for orders placed before 12:00. Delivery is €4.50, free over €40."
+ },
+ {
+  "q": "How do I order a custom cake?",
+  "a": "Custom cakes need 72 hours notice. Choose the size (6\", 8\" or 10\"), flavour and decoration in the order form or tell us here and the team will confirm by email."
+ },
+ {
+  "q": "Do you have gluten-free options?",
+  "a": "We bake a gluten-free brownie and a buckwheat loaf daily. They are made in a shared kitchen, so we cannot guarantee zero cross-contamination."
+ },
+ {
+  "q": "Do your products contain nuts?",
+  "a": "Several pastries contain nuts (almond croissant, pecan pie, pistachio éclair). Each item lists allergens on its label, and staff can show you the full allergen sheet."
+ },
+ {
+  "q": "Are there vegan products?",
+  "a": "Yes: our sourdough loaves, the vegan cinnamon roll and the oat cookie are 100% vegan."
+ },
+ {
+  "q": "Can I cancel or change an order?",
+  "a": "You can change or cancel a regular order up to 12 hours before pickup. Custom cakes can be changed up to 48 hours before; after that the 30% deposit is non-refundable."
+ },
+ {
+  "q": "What payment methods do you accept?",
+  "a": "Card, Apple Pay, Google Pay and cash in store. Online orders are paid by card at checkout."
+ },
+ {
+  "q": "Where are you located?",
+  "a": "Crumb & Co. is a fictional demo bakery, so there is no real address — in a real project this answer would include the address and a map link."
+ },
+ {
+  "q": "Do you cater events?",
+  "a": "Yes, we prepare pastry boxes for offices and events from 20 people. Tell us the date and headcount, and we will send an offer within one business day."
+ }
+]
